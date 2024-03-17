@@ -1,0 +1,22 @@
+{
+  "name": "tea-protocol-oss-demeter",
+  "version": "1.0.0",
+  "description": "Interaction with new interesting and temporarily unfamiliar technology - \"Tea Protocol\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YakymetsDmytro/tea-protocol-oss-Demeter.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YakymetsDmytro/tea-protocol-oss-Demeter/issues"
+  },
+  "homepage": "https://github.com/YakymetsDmytro/tea-protocol-oss-Demeter#readme"
+}
