@@ -32,5 +32,4 @@ function isEven(number) {
   console.log("Random number between 1 and 10:", getRandomInt(1, 10)); // Output: Random number between 1 and 10
   console.log("Capitalized word:", capitalizeFirstLetter("hello")); // Output: Hello
   console.log("Factorial of 5:", factorial(5)); // Output: 120
-  console.log("Reversed string:", reverseString("hello")); // Output: olleh
-  
+  console.log("Reversed string:", reverseString("hello")); // Output: olleh  
